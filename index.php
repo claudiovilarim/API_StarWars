@@ -13,7 +13,8 @@
         echo "<hr>";
         // var_dump($key);
         echo "Nome: {$key->name} <br>";
-        echo "Altura: {$key->height}";
+        echo "Altura: {$key->height} <br>";
+        echo "Gênero: {$key->gender}";
     }
     
 
